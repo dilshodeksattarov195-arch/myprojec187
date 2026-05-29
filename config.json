@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefecrypt",
+        "uuid": 1697960,
+        "checksum": "3kavf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
